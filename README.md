@@ -7,7 +7,7 @@ There aren't any particular reason for why I went with Go other than some of the
 # Projects
 
 ## Week 1
-Link: [https://github.com/RasmusHS/Week1-Pomodoro-Timer](https://github.com/RasmusHS/Week1-Pomodoro-Timer)
+Link: [https://github.com/RasmusHS/Week1-Pomodoro-Timer](https://github.com/RasmusHS/Week1-Pomodoro-Timer) \
 To introduce myself to Go I've chosen to make a CLI based pomodoro timer. \
 In short: A pomodoro timer is a technique to help maintain/improve ones own productivity. \
 Learning objectives: Go syntax
