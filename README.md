@@ -10,4 +10,10 @@ There aren't any particular reason for why I went with Go other than some of the
 Link: [https://github.com/RasmusHS/Week1-Pomodoro-Timer](https://github.com/RasmusHS/Week1-Pomodoro-Timer) \
 To introduce myself to Go I've chosen to make a CLI based pomodoro timer. \
 In short: A pomodoro timer is a technique to help maintain/improve ones own productivity. \
-Learning objectives: Go syntax
+What I've touched on during this project: Go syntax, Go's module system, goroutines, channels, pointers, JSON serialization, struct tags, and CLI flags
+
+## Week 2
+Link: [https://github.com/RasmusHS/Week2-HTTP-Health-Checker/tree/master](https://github.com/RasmusHS/Week2-HTTP-Health-Checker/tree/master) \
+This 2nd Go project is meant to get deeper into concurrency and goroutines. \
+Summary: \
+What I've touched on during this project: 
