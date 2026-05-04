@@ -5,7 +5,11 @@ I've chosen to start off these 12 weeks with getting introduced to Go. \
 There aren't any particular reason for why I went with Go other than some of the buzz around it. 
 
 # Use of AI
-(To be expanded upon later)
+For these projects I'm using Anthropics Claude Opus 4.6 model. \
+The AI has been instructed to provide guidance, and sources/docs for myself to research, rather than direct answers, while only providing examples when asked to. \
+I have, so far, felt that this has been decent for picking up a new language, Go in this case. \
+There has been a single case where I ran late on a project, where I told claude to be direct along with its usual guidance (week 4). \
+Outside of that I've leaned on my own experience, knowledge and intuition to judge claude's answers.
 
 # Projects
 
@@ -34,4 +38,9 @@ This 2nd Go project is meant to get myself deeper into concurrency and goroutine
 ## Week 5 - Reverse Proxy with YARP (C#)
 **Link:** [https://github.com/RasmusHS/Week5-Reverse-Proxy](https://github.com/RasmusHS/Week5-Reverse-Proxy) 
 - **Summary:** A configurable reverse proxy using Microsoft's YARP library.
+- **What I've touched on during this project:** Reverse proxy with YARP, logging middleware with Serilog, basic authentication and authorization.
+
+## Week 6 - Container Image Inspector (Go)
+**Link:** [https://github.com/RasmusHS/Week6-Container-Image-Inspector](https://github.com/RasmusHS/Week6-Container-Image-Inspector)
+- **Summary:**
 - **What I've touched on during this project:**
