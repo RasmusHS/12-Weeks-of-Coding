@@ -44,3 +44,8 @@ This 2nd Go project is meant to get myself deeper into concurrency and goroutine
 **Link:** [https://github.com/RasmusHS/Week6-Container-Image-Inspector](https://github.com/RasmusHS/Week6-Container-Image-Inspector)
 - **Summary:** CLI tool that inspects Docker/OCI container images directly from a registry, without requiring Docker to be installed. It pulls image manifests, lists layers with their sizes, and displays the Dockerfile commands that created each layer.
 - **What I've touched on during this project:** OCI Distribution Spec registry HTTP API, auth token flows and header parsing, Gzip decompression and tar archive reading, Idiomatic Go project structure, Formatted CLI output
+
+## Week 7 - Infrastructure-as-Code Config Generator (C#)
+**Link:** [https://github.com/RasmusHS/Week7-Infrastructure-as-Code-Config-Generator](https://github.com/RasmusHS/Week7-Infrastructure-as-Code-Config-Generator)
+- **Summary:**
+- **What I've touched on during this project:**
