@@ -49,3 +49,8 @@ This 2nd Go project is meant to get myself deeper into concurrency and goroutine
 **Link:** [https://github.com/RasmusHS/Week7-Infrastructure-as-Code-Config-Generator](https://github.com/RasmusHS/Week7-Infrastructure-as-Code-Config-Generator)
 - **Summary:** A CLI tool that generates Docker Compose files, Traefik routing labels, and Cloudflare Tunnel service definitions from a simplified YAML schema describing your homelab infrastructure.
 - **What I've touched on during this project:** YAML deserialization, validation pipelines, code generation
+
+## Week 8 - Peer-to-Peer File Transfer (Go)
+**Link:** [https://github.com/RasmusHS/p2pft](https://github.com/RasmusHS/p2pft)
+- **Summary:**
+- **What I've touched on during this project:**
