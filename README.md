@@ -52,5 +52,5 @@ This 2nd Go project is meant to get myself deeper into concurrency and goroutine
 
 ## Week 8 - Peer-to-Peer File Transfer (Go)
 **Link:** [https://github.com/RasmusHS/p2pft](https://github.com/RasmusHS/p2pft)
-- **Summary:**
-- **What I've touched on during this project:**
+- **Summary:** Peer-to-peer CLI file transfer with end-to-end TLS, resumable transfers, and a tiny relay that brokers the introduction but never sees the bytes.
+- **What I've touched on during this project:** TCP/UDP networking, NAT traversal, goroutine-based concurrency, and streaming integrity verification.
