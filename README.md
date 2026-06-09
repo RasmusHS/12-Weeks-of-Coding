@@ -54,3 +54,8 @@ This 2nd Go project is meant to get myself deeper into concurrency and goroutine
 **Link:** [https://github.com/RasmusHS/p2pft](https://github.com/RasmusHS/p2pft)
 - **Summary:** Peer-to-peer CLI file transfer with end-to-end TLS, resumable transfers, and a tiny relay that brokers the introduction but never sees the bytes.
 - **What I've touched on during this project:** TCP/UDP networking, NAT traversal, goroutine-based concurrency, and streaming integrity verification.
+
+## Week 9 - Secrets Manager with Encrypted Storage (C#)
+**Link:** [https://github.com/RasmusHS/M0useySecrets](https://github.com/RasmusHS/M0useySecrets)
+- **Summary:**
+- **What I've touched on during this project:** 
